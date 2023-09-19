@@ -1,4 +1,4 @@
 streamlit
-tabula
+tabula-py
 pandas
 numpy>=1.18.5
