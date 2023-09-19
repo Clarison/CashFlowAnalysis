@@ -5,3 +5,4 @@ numpy>=1.18.5
 openpyxl
 camelot-py[cv]
 PyPDF2
+openjdk=8
