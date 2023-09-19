@@ -1,5 +1,6 @@
 import streamlit as st
 import tabula
+import openjdk=8
 
 def pdf_to_tables(pdf_file):
     # Use tabula to extract tables from the PDF
